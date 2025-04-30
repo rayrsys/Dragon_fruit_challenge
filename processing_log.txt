@@ -1,0 +1,16 @@
+2025-04-30 08:35:08,377 - INFO - Generating 10 dummy image pairs (500x500)...
+2025-04-30 08:35:08,427 - INFO - Dummy data generation complete.
+2025-04-30 08:35:08,428 - INFO - Found 10 image pairs to process.
+2025-04-30 08:35:08,429 - INFO - Starting parallel processing with up to 5 workers...
+2025-04-30 08:35:08,736 - INFO - ==============================
+2025-04-30 08:35:08,736 - INFO - Processing Summary
+2025-04-30 08:35:08,737 - INFO - ==============================
+2025-04-30 08:35:08,737 - INFO - Total pairs found: 10
+2025-04-30 08:35:08,737 - INFO - Total pairs processed successfully: 10
+2025-04-30 08:35:08,737 - INFO - Pairs with errors during processing: 0
+2025-04-30 08:35:08,738 - INFO - Number of cancerous parasites detected: 3
+2025-04-30 08:35:08,738 - INFO - Cancerous rate among successfully processed: 30.00%
+2025-04-30 08:35:08,738 - INFO - Total processing time: 0.31 seconds
+2025-04-30 08:35:08,738 - INFO - Microscope images saved to: output_images/microscope_all
+2025-04-30 08:35:08,739 - INFO - Cancerous dye images saved to: output_images/dye_cancerous
+2025-04-30 08:35:08,739 - INFO - Detailed logs available in: processing_log.txt
